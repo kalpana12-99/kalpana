@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262213838440",
+    "project_id": "renting-a-cycle",
+    "storage_bucket": "renting-a-cycle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262213838440:android:14bad95ffa0c85d6f5bddd",
+        "android_client_info": {
+          "package_name": "com.example.rentingacycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262213838440-2qet57mvm7dkmkmhcb29v9ssqrlcf2de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4NjmjOxHktrL2KipUgp8UtaE_AHPihQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262213838440-2qet57mvm7dkmkmhcb29v9ssqrlcf2de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
